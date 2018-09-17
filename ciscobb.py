@@ -2,7 +2,7 @@ from datetime import datetime
 
 print("Excercise 1\n")
 datetime_obj = datetime.now()
-print("Current DateTime:", datetime_obj.strftime("%d %B %Y - %H:%M:%S"))
+print("Current DateTime:", datetime_obj.strftime("%d %B %Y - %H:%M:%S"), "\n")
 
 print(80 * "*")
 print("\nExercise 2\n")
